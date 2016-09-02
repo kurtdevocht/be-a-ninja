@@ -1,0 +1,6 @@
+Klok
+Jetpack
+woord achterstevoren
+schaakbord
+fibo-rij berekenen
+allebei even?
