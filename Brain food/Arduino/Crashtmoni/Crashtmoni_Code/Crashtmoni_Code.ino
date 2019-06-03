@@ -51,8 +51,8 @@ void loop() {
     // Wacht 500ms
     delay( 500);
 
-    // Zet de servo-motor in lanceerpositie (40°)
-    mijnServoMotor.write(40);
+    // Zet de servo-motor in lanceerpositie (0°)
+    mijnServoMotor.write(0);
     
     // Wacht 500ms en zet de beeper daarna uit
     delay(500);
